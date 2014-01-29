@@ -40,6 +40,7 @@ gontributions -name=anonymous -mail=anonymous@example.com yamashiro.txt
 
 # Examples
 
+## source.txt
 ```
 #     # #   #     #   #    ####  ### #####   ##* 
  #   #  #   ##   ##   #   #*   #  #  #*   # #* #*
@@ -49,7 +50,7 @@ gontributions -name=anonymous -mail=anonymous@example.com yamashiro.txt
    #  #   # #*    # #   # #*   #  #  #*  #  #* #*
    # ##   ###*    ###   ## ####  ### #*   #  ##* 
 ```
-
+## rendered graph
 ![](https://raw.github.com/taichi/gontributions/master/example.png)
 
 # see also
