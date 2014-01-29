@@ -1,6 +1,13 @@
 # GitHub Contribution Graph Hack
 
 # Usage
+
+## Build
+```
+go get github.com/taichi/gontributions
+go install github.com/taichi/gontributions
+```
+
 ## Make your ASCII ART
 requirements are
 * 8 lines
@@ -10,6 +17,8 @@ requirements are
 
 ## Execute gontributions command
 if you don't specify source file, gontributions uses **source.txt**
+
+## Push generated repository to GitHub
 
 ## Options
 
@@ -27,7 +36,7 @@ msg | commit message | happy hacking !!
 gontributions -name=anonymous -mail=anonymous@example.com yamashiro.txt
 ```
 
-## Examples
+# Examples
 
 ```
 #     # #   #     #   #    ####  ### #####   ##* 
@@ -40,12 +49,6 @@ gontributions -name=anonymous -mail=anonymous@example.com yamashiro.txt
 ```
 
 ![](https://raw.github.com/taichi/gontributions/master/example.png)
-
-## build 
-```
-go get github.com/taichi/gontributions
-go install github.com/taichi/gontributions
-```
 
 # see also
 * [Viewing contributions](https://help.github.com/articles/viewing-contributions)
