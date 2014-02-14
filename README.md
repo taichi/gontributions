@@ -5,6 +5,11 @@
 # Usage
 
 ## Build
+
+Download from [build.io](http://gobuild.io/download/https:/github.com/taichi/gontributions).
+
+or 
+
 ```
 go get github.com/taichi/gontributions
 go install github.com/taichi/gontributions
