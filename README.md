@@ -19,7 +19,7 @@ go install github.com/taichi/gontributions
 requirements are
 * 8 lines
     * last line must be blank
-* 50 charactors
+* 50 characters
 * use ' ','-','*','@','#'. right one is more dark green.
 
 ## Execute gontributions command
